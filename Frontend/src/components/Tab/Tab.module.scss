@@ -1,0 +1,32 @@
+
+.tab{
+    display: flex;
+    margin-bottom: 4%;
+
+    & a{
+        text-decoration: none;
+        width: 50%;
+        text-align: center;
+        margin: 0;
+        padding: 1%;
+        border: 1px solid #9DB2BF;
+        color: black;
+        transition: background-color 1s ease;
+    }
+
+}
+
+.active{
+    background-color: #068DA9;
+    color: white !important;
+    animation: fade-in 1s;
+}
+
+@keyframes fade-in{
+    from {
+        opacity: 0;
+      }
+      to {
+        opacity: 1;
+      }
+}

@@ -1,0 +1,42 @@
+.table-container {
+
+    &>table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    & th,
+    td {
+        border: 1px solid;
+        padding: 1%;
+        text-align: start;
+    }
+
+    & td {
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        overflow: hidden;
+    }
+
+
+    & td:last-child {
+        text-align: center;
+    }
+
+    & a{
+        color: #0A6EBD;
+        text-decoration: none;
+    }
+
+    & a:hover{
+        text-decoration: underline;
+    }
+}
+
+.table-head{
+    background-color: #dddddd;
+}
+
+.no-history{
+    text-align: center;
+}

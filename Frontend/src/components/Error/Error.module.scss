@@ -1,0 +1,16 @@
+
+.error{
+    text-align: center;
+
+    & a{
+        padding: 0.5rem;
+        text-decoration: none;
+        background: #3AA6B9;
+        color: white;
+        border-radius: 6%;
+    }
+}
+
+.status{
+    font-size: -webkit-xxx-large;
+}

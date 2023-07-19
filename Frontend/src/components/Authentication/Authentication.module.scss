@@ -1,0 +1,26 @@
+.form{
+
+    width: 35%;
+    margin: auto;
+
+    & label, button{
+        display: block;
+    }
+
+    & input{
+        width: 100%;
+        box-sizing: border-box;
+        font-size: 1rem;
+        padding: 1.2%;
+        margin-bottom: 3%;
+    }
+
+    & button{
+        width: 100%;
+        padding: 1% 0;
+        font-size: 1.2rem;
+        margin-top: 3%;
+        cursor: pointer;
+        
+    }
+}
