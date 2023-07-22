@@ -3,16 +3,19 @@ A URL shortener is a web-based service that converts long and unwieldy URLs into
 
 Let's see how project's  different pages looks 
 
+// Home page
 ![Screenshot (50)_edited](https://github.com/Himanshu-0201/Url-shortner/assets/72063509/809adaf2-e250-4187-a24c-fdd1026ef85f)
 
 
 ![Screenshot_edited](https://github.com/Himanshu-0201/Url-shortner/assets/72063509/4ad5542e-a519-4288-b97d-e5857db9f11b)
 
 
+// Dashboard Page
+
 
 ![Screenshot (53)_edited](https://github.com/Himanshu-0201/Url-shortner/assets/72063509/29093c07-4f6d-4ac3-8125-5ae600ad5f83)
 
-
+// Sign up page
 
 ![Screenshot_edited (51)](https://github.com/Himanshu-0201/Url-shortner/assets/72063509/fae12e0e-9125-442c-9dfb-b1b266f985cd)
 
